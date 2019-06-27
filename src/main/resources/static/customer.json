@@ -1,0 +1,16 @@
+[
+	
+      {
+         "custName":"Naresh",
+         "accountNumber": "123",
+         "custMobNum": "365876878",
+         "custRole": "Senior S/w developer"
+      },
+	
+      {
+         "custName":"Suma",
+         "accountNumber": "456",
+         "custMobNum": "79709879",
+         "custRole": "Senior S/w developer"
+      }
+   ]
